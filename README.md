@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Vitória Cristine!
+# Olá, eu sou Vitória Cristine!
 
 ### 🎓 Estudante de Sistemas de Informação | 📊 Dados | 🐍 Python | 🗄️ SQL
 
