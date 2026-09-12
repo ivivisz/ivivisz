@@ -38,7 +38,7 @@ para minha formação na área de tecnologia.
 
 ## 🗄️ Banco de Dados
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Ferramentas
