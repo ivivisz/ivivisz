@@ -21,9 +21,9 @@ para minha formação na área de tecnologia.
 🌱 Atualmente estou aprofundando meus conhecimentos em:
 
 - 🐍 Python
+- 📦 Estruturas de Dados em Python
 - 🗄️ SQL e Banco de Dados
 - 📊 Análise de Dados
-- 🐼 Pandas
 - 📈 Visualização de Dados
 - 🤖 Automação com Python
 
