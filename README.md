@@ -4,7 +4,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+👩‍💻 Sobre mim
 
 Sou estudante de **Sistemas de Informação**, atualmente direcionando
 meus estudos para a área de **Dados**.
